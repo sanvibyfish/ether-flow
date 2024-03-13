@@ -1,0 +1,14 @@
+{
+  "name": "@sanvibyfish/ether-flow",
+  "version": "1.0.1",
+  "description": "ether dev tools",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "publishConfig": {
+    "access": "public"
+  },
+  "author": "sanvibyfish@gmail.com",
+  "license": "ISC"
+}
